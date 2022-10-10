@@ -16,20 +16,20 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 - 💬 Ask me about **Data Structures & Algorithm, MERN**
-- 📫 How to reach me **pbaranwal10062002@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1uCfaYDfEOh9Z4NrVWS1kj9meVYREj1Qg/view?usp=sharing).
+- 📫 How to reach me **vijayiet00@gmail.com**
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1W86ZVqv2j7L4iOdiYQxm2FiYoMW6nIVC/view?usp=sharing).
 
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal563" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pranjal563" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ramayana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ramayana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranjal18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranjal18113" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranjal563" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranjal563" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranjal563" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijay-kumar-7463b4222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vijay2322" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pranjal563" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/ramayana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ramayana" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/vijayiet00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vijay2322" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranjal563" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/vijaykumar37879/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vijay2322" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vijayiet00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vijay2322" height="30" width="40" /></a>
 </p>
 
 <br>
