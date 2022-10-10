@@ -30,6 +30,7 @@
 <!-- <a href="https://codeforces.com/profile/pranjal563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranjal563" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/vijaykumar37879/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vijay2322" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vijayiet00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vijay2322" height="30" width="40" /></a>
+
 </p>
 
 <br>
