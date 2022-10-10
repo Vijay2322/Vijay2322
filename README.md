@@ -1,7 +1,7 @@
 
 
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
-<h1 align="center">Hi, I'm Pranjal Barnwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Vijay Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I love to code and solve real world problems.</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Problem+Solver;Competitive+Programmer;MERN+Stack+Developer&center=true&width=500&height=50"></a>
@@ -40,18 +40,18 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Most Used Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal563&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pranjal563" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vijay2322&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Vijay2322" /></p>
 
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal563&show_icons=true&theme=tokyonight&locale=en" alt="pranjal563" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vijay2322&show_icons=true&theme=tokyonight&locale=en" alt="Vijay2322" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal563&theme=tokyonight" alt="pranjal563" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay2322&theme=tokyonight" alt="Vijay2322" /></p>
 
 <br>
 
 ## :trophy: Git profile Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal563&theme=tokyonight" alt="pranjal563" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vijay2322&theme=tokyonight" alt="Vijay2322" /></a> </p>
